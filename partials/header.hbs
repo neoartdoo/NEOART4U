@@ -1,0 +1,53 @@
+{{! The big featured header }}
+    <!-- Header -->
+				<div id="header-wrapper" {{#if @blog.cover}}style="background:url({{@blog.cover}}){{/if}}">
+					<div class="container">
+
+						<!-- Header -->
+							<header id="header">
+								<div class="inner">
+
+									<!-- Logo -->
+										<h1><a href="{{@blog.url}}" id="logo">Neoart4U</a></h1>
+
+									<!-- Nav -->
+										<nav id="nav">
+											<ul> <!--Change this to customize the navigation-->
+								              <li><a href="{{@blog.url}}/naslovna">Naslvna</a></li>
+												<li>
+													<a href="#">Dropdown</a>
+													<ul>
+														<li><a href="{{@blog.url}}/o-neoart-u">Lorem ipsum dolor</a></li>
+														<li><a href="{{@blog.url}}/galerija">Magna phasellus</a></li>
+														<li>
+															<a href="#">Phasellus consequat</a>
+															<ul>
+																<li><a href="#">Lorem ipsum dolor</a></li>
+																<li><a href="#">Phasellus consequat</a></li>
+																<li><a href="#">Magna phasellus</a></li>
+																<li><a href="#">Etiam dolore nisl</a></li>
+															</ul>
+														</li>
+														<li><a href="#">Veroeros feugiat</a></li>
+													</ul>
+												</li>
+												<li><a href="{{@blog.url}}/galerija">Gallery</a></li>
+												<li><a href="{{@blog.url}}/tag">Tag</a></li>
+												<li><a href="{{@blog.url}}/kontakt">Contact</a></li>
+											</ul>
+										</nav>
+
+								</div>
+							</header>
+
+						<!-- Banner -->
+							<div id="banner">
+								<h2><strong>NEOART 4U:</strong> A responsive site template
+								<br />
+								built on HTML5 and CSS3 by <a href="http://www.neoart.rs">NEOART DOO</a></h2>
+								<p>Does this statement make you want to click the big shiny button?</p>
+								<a href="#" class="button big icon fa-check-circle">Yes it does</a>
+							</div>
+
+					</div>
+				</div>
