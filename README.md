@@ -34,7 +34,7 @@ Ghost is still a work in progress with many features not yet implemented, as Gho
  7. Follow the installation instructions for a theme in the official [Ghost Documentation](http://docs.ghost.org/themes/)
 
 
-## Demo
+## Demo [Folow link](http://xtra.lazal.rs/)
 
 
 
