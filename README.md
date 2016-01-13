@@ -2,7 +2,7 @@ NEOART4U
 [![Project Status](http://xtra.lazal.rs/content/images/2016/01/neoart150.png)](http://xtra.lazal.rs)
 =======
 
-Ghost theme based on the default Casper theme and inspired by GitHub and Medium for a simple design focused on readability. Good for code.
+Ghost theme based on the default Casper theme.
 
 
 ## Features
